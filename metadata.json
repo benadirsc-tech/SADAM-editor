@@ -1,0 +1,5 @@
+{
+  "name": "sadaam Editor",
+  "description": "An AI-powered image editing application using Gemini 2.5 Flash Image to modify photos based on text instructions.",
+  "requestFramePermissions": []
+}
